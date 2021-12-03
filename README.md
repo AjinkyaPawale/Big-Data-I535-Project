@@ -1,8 +1,7 @@
 # Big-Data-I535-Project
 
-# Authors
+# Author
 - Ajinkya Pawale (ajpawale@iu.edu)
-
 
 
 In this project I will be analyzing the stock data. There is a lot of data that is generated on a daily basis in the stock market. Stock market data may be fascinating to study, and excellent prediction models can result in significant financial gains. The amount of financial data available on the internet appears to be limitless. It might be difficult to find a substantial, well-structured dataset on a wide range of organizations. This dataset contains historical stock prices (for the previous five years) for all firms currently listed on the S&P 500 index. S&P 500 is an acronym for Standard and Poor's 500, a stock market index that measures 500 publicly listed domestic firms in the United States. Many investors believe it is the most accurate overall indicator of the success of the American stock market.  
